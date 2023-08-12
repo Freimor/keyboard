@@ -1,4 +1,14 @@
 # keyboard
+
+## Switches
+| №  | Name  | Type | Manufacturer | Note  | Link |
+| -- | ----- | ---- | ------------ | ----- | ---- |
+| 1  | Cherry MX Black | linear | Cherry | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1030 |
+| 1  | Cherry MX Black | linear | Cherry | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1030 |
+
+
+
+
 Custom_mechanical_keyboard
 
 https://github.com/help-14/mechanical-keyboard
