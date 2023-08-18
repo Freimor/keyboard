@@ -18,12 +18,23 @@
 | MX ULP Click | tactile and acoustic | 52 | 0.8 | MX6C-K3NB | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/b/f/8/a/bf8aa6c9901e722a271f6ccc9d2388d9380c195f/CHERRY_MX_ULP_Click_Datasheet.pdf) | [Reichelt](https://www.reichelt.com/de/en/cherry-mx-ultra-low-profile-rgb-pushbutton-module-cherry-mx6c-k3nb-p335040.html?&trstct=pos_3&nbc=1) |
 | MX ULP Tactile | tactile without click | 52 | 0.8 | MX6C-T3NB | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/8/c/3/4/8c348ad8022fdd2c96033bdb32948fcb036a4ecd/CHERRY_MX_ULP_Tactile_Datasheet.pdf) | [Reichelt](https://www.reichelt.com/de/en/cherry-mx-ultra-low-profile-rgb-pushbutton-module-cherry-mx6c-k3nb-p335040.html?&trstct=pos_3&nbc=1) |
 
+[GIT | Cherry ULP](https://github.com/pashutk/Cherry_MX_ULP)
+
+
+## Matias Switches
+| Name  | Family | Type | Act Force | Act Point | Designator | Datasheet | Link |
+| ----- | ------ | ---- | --------- | ---------- | ---------- | --------- | ---- |
+
+
 ## Kailh Switches
 [Kailh switch stand](https://www.kailh.net/products/kailh-switch-tester)
 
 [Kailh LP switches pack](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-mechanical-keyboard-switches-tester-pack)
 | Name  | Family | Type | Act Force | Act Point | Designator | Datasheet | Link |
 | ----- | ------ | ---- | --------- | ---------- | ---------- | --------- | ---- |
+
+
+
 | Choc LP v1 Red | PG1350 | linear, medium | 50 | 1.5 | CPG135001D01 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D01_C400229.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D01_C400229.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647613634) |
 | Choc LP v1 Brown | PG1350 | tactile, medium | 60 | 1.5 | CPG135001D02 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D02_C400230.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D02_C400230.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6339) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647646402) |
 | Choc LP v1 White | PG1350 | clicky, medium | 60 | 1.5 | CPG135001D03 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D03_C400231.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D03_C400231.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6340) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647679170) |
@@ -50,14 +61,24 @@
 | X ULP Blue | PG1425 | clicky | 60 | 1.2 | CPG142501D03 | [Datasheet](http://www.kailh.com/en/Products/Ks/NotebookS/649.html) | [AliExpress](https://aliexpress.ru/item/32985602923.html?sku_id=10000000843368905&spm=a2g2w.productlist.search_results.2.2a6f4aa654pxyt) \ [Chosfox](https://chosfox.com/products/kailh-x-switch-sets?_pos=3&_sid=7ad59e1d7&_ss=r) |
 
 
-
+## Gateron Switches
+| Name  | Family | Type | Act Force | Act Point | Designator | Datasheet | Link |
+| ----- | ------ | ---- | --------- | ---------- | ---------- | --------- | ---- |
 
 
 
 ## Add-ons
 [Mill-max 3305 hotswap pin for pcb](https://www.mill-max.com/products/pin-receptacle/receptacle-with-no-tail/3305)
 
+[Mill-max sockets store](https://keeb.io/products/mill-max-hotswap-sockets)
+
+1.55mm holefor mill max sockets
+
 Recomend to use 3305-1 over 3305
+
+
+https://github.com/joric/nrfmicro/wiki/Sockets
+[Holtite sockets](https://deskthority.net/wiki/Holtite)
 
 ## Stores
 [MechanicalKeyboards(US)](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=107)
@@ -89,3 +110,4 @@ https://aliexpress.ru/item/1005001632672798.html?sku_id=12000029982579361&spm=a2
 https://mkultra.click/
 
 https://docs.qmk.fm/#/
+
