@@ -76,6 +76,10 @@
 
 Recomend to use 3305-1 over 3305
 
+Intresting project for soldering
+
+[WEEKIN Y-40 SOLDERABLE DIY KIT](https://kbdfans.com/collections/all/products/weekin-y-40-solderable-diy-kit)
+
 
 https://github.com/joric/nrfmicro/wiki/Sockets
 [Holtite sockets](https://deskthority.net/wiki/Holtite)
@@ -108,6 +112,8 @@ https://github.com/help-14/mechanical-keyboard
 https://aliexpress.ru/item/1005001632672798.html?sku_id=12000029982579361&spm=a2g2w.productlist.search_results.7.46e74aa6q571E3
 
 https://mkultra.click/
+
+https://kbdfans.com/collections/all
 
 https://docs.qmk.fm/#/
 
