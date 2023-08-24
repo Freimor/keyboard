@@ -10,6 +10,7 @@
 | MX Green | tactile and acoustic | 70 | 2 | MX1A-Fxxx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/a/a/3/1/aa31c11f193a199eea05c8897d9decc539ce9b7f/EN_CHERRY_MX_GREEN.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=63) |
 | MX Grey | tactile | 70 | 2 | MX1A-D1Nx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/9/6/8/f/968fd7e99029449b6af9babb96149abed607b29b/Data_Sheet_CHERRY_MX_Grey.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=59) |
 | MX Clear | tactile | 65 | 2 | MX1A-Cxxx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/1/e/6/d/1e6d4479ea3c692473ae8dd3f0b825bd568ecadb/EN_CHERRY_MX_CLEAR.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=58) |
+| MX White | tactile and acoustic | 55 | 4 | MX1A-A1NN | [Datasheet](https://www.farnell.com/datasheets/2301174.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=64) |
 | MX Speed Silver | linear | 45 | 1.2 | MX1A-51Nx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/7/f/4/5/7f45a95bf2bd93bd9c94f1835bd0c89dd6863326/EN_CHERRY_MX_SPEED_Silver.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=875) |
 | MX Silent Red | linear | 45 | 1.9 | MX3A-L1xx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/9/8/d/c/98dc07c393ba6be617c8547b77371709063605ad/EN_CHERRY_MX_SILENT_RED.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=376) |
 | MX Silent Black | linear | 60 | 1.9 | MX3A-11xx | [Datasheet](https://www.cherrymx.de/_Resources/Persistent/8/9/4/5/8945e4291a811c540f5c3e1ae4b3fc47e4011a8a/EN_CHERRY_MX_SILENT_BLACK.pdf) | [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9975) |
@@ -80,6 +81,7 @@ Intresting project for soldering
 
 [WEEKIN Y-40 SOLDERABLE DIY KIT](https://kbdfans.com/collections/all/products/weekin-y-40-solderable-diy-kit)
 
+[nice!60 wireless board](https://nicekeyboards.com/nice-60)
 
 https://github.com/joric/nrfmicro/wiki/Sockets
 [Holtite sockets](https://deskthority.net/wiki/Holtite)
@@ -116,5 +118,7 @@ https://mkultra.click/
 https://kbdfans.com/collections/all
 
 https://docs.qmk.fm/#/
+
+https://42keebs.eu/shop/parts/controllers/nice-nano-v2-wireless-controller/
 
 [KeebTalk - Vendor list database](https://www.keebtalk.com/t/list-of-keyboard-retailers-shops-stores-vendors/9022)
