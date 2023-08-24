@@ -117,3 +117,4 @@ https://kbdfans.com/collections/all
 
 https://docs.qmk.fm/#/
 
+[KeebTalk - Vendor list database](https://www.keebtalk.com/t/list-of-keyboard-retailers-shops-stores-vendors/9022)
