@@ -86,6 +86,9 @@ Intresting project for soldering
 https://github.com/joric/nrfmicro/wiki/Sockets
 [Holtite sockets](https://deskthority.net/wiki/Holtite)
 
+
+[Custom MagLev MX Switch](https://github.com/famichu/MagLev_Switch_MX)
+
 ## Stores
 [MechanicalKeyboards(US)](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=107)
 
