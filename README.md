@@ -29,6 +29,7 @@
 
 ## Kailh Switches
 [Kailh switch stand](https://www.kailh.net/products/kailh-switch-tester)
+[Kailh mid height (KH)](https://aliexpress.ru/item/32960369030.html?gatewayAdapt=glo2rus&sku_id=66489586936)
 
 [Kailh LP switches pack](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-mechanical-keyboard-switches-tester-pack)
 | Name  | Family | Type | Act Force | Act Point | Designator | Datasheet | Link |
