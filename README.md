@@ -34,9 +34,6 @@
 [Kailh LP switches pack](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-mechanical-keyboard-switches-tester-pack)
 | Name  | Family | Type | Act Force | Act Point | Designator | Datasheet | Link |
 | ----- | ------ | ---- | --------- | ---------- | ---------- | --------- | ---- |
-
-
-
 | Choc LP v1 Red | PG1350 | linear, medium | 50 | 1.5 | CPG135001D01 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D01_C400229.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D01_C400229.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6337) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647613634) |
 | Choc LP v1 Brown | PG1350 | tactile, medium | 60 | 1.5 | CPG135001D02 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D02_C400230.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D02_C400230.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6339) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647646402) |
 | Choc LP v1 White | PG1350 | clicky, medium | 60 | 1.5 | CPG135001D03 | [Datasheet](https://datasheet.lcsc.com/lcsc/1912111437_Kailh-CPG135001D03_C400231.pdf) | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG135001D03_C400231.html) \ [MechanicalKeyboards](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6340) \ [Chosfox](https://chosfox.com/collections/low-profile-collection/products/kailh-low-profile-choc-switches?variant=42514647679170) |
