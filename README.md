@@ -1,5 +1,5 @@
 # keyboard
-
+[switch chart](https://thegamingsetup.com/gaming-keyboard/buying-guides/keyboard-switch-chart-table)
 ## Cherry Switches
 | Name  | Type | Act Force | Act Point | Designator | Datasheet | Link |
 | ----- | ---- | --------- | --------- | ---------- | --------- | ---- |
